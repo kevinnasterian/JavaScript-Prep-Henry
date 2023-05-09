@@ -1,8 +1,1 @@
-function puedeManejar(edad) {
-    if(edad >= 18) {
-             console.log( true );
-    } 
-    console.log( false );
-  }
-  
-  puedeManejar(17);
+console.log(Boolean(-2))

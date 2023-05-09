@@ -1,3 +1,8 @@
-console.log(2+4)
-console.log(4**2)
-console.log(4*2)
+function puedeManejar(edad) {
+    if(edad >= 18) {
+             console.log( true );
+    } 
+    console.log( false );
+  }
+  
+  puedeManejar(17);
